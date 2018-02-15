@@ -8,4 +8,9 @@ Projet Terminale ISN 2017-2018 - Création d'un RPG - Par Arthur REBOUL & Lucas 
 - Création d'un niveau vide  :heavy_check_mark:
 ## Version 0.2
 - Ajout de l'animation au déplacement du Player
-- Création de Hitbox Player/Bord de Map
+- Création de Hitbox Player/Bord de Map  :heavy_check_mark:
+
+
+
+
+lien image pokemon https://www.spriters-resource.com/ds_dsi/pokemonheartgoldsoulsilver/
